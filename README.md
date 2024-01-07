@@ -1,4 +1,4 @@
-# NChavesQGame
+# NChavesQGame is an assignment created for my Computer Programming and Data Structures Class that uses Windows Forms
 
 Q-Puzzle game is a puzzle game consisting of several colored doors and boxes.
    
